@@ -46,8 +46,6 @@ function caesar(input, shift, encode = true) {
             result += String.fromCharCode(shiftedCode);
         }
     }
-    console.log (!"");
-    console.log (result);
     return result;    
 }
 module.exports = caesar;
