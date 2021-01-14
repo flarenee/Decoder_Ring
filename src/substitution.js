@@ -51,7 +51,6 @@ function substitution(input, alphabet, encode = true) {
         // this is unacceptable
         return false;
     }
-    console.log (result);
     return result;    
 }
 
