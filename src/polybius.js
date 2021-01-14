@@ -58,7 +58,6 @@ function polybius(input, encode = true) {
     } else {
         return false;
     }
-    console.log (result)
     return result;
 }
 
